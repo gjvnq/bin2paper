@@ -1,5 +1,7 @@
 bin2txt
 bin2pdf
+txt2bin
+pdf2bin
 
 # Binaries for programs and plugins
 *.exe
